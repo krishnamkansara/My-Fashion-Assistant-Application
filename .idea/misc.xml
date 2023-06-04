@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Semister-6/minor/Authentication/app/src/main/res/layout/activity_aboutus.xml" value="0.27708333333333335" />
+        <entry key="..\:/Semister-6/minor/Authentication/app/src/main/res/layout/activity_add_clothes.xml" value="0.27708333333333335" />
+        <entry key="..\:/Semister-6/minor/Authentication/app/src/main/res/layout/activity_contactus.xml" value="0.27708333333333335" />
+        <entry key="..\:/Semister-6/minor/Authentication/app/src/main/res/layout/activity_drawerbase.xml" value="0.27708333333333335" />
+        <entry key="..\:/Semister-6/minor/Authentication/app/src/main/res/layout/activity_fpwd.xml" value="0.27708333333333335" />
+        <entry key="..\:/Semister-6/minor/Authentication/app/src/main/res/layout/activity_help.xml" value="0.27708333333333335" />
+        <entry key="..\:/Semister-6/minor/Authentication/app/src/main/res/layout/activity_home.xml" value="0.27708333333333335" />
+        <entry key="..\:/Semister-6/minor/Authentication/app/src/main/res/layout/activity_login.xml" value="0.27708333333333335" />
+        <entry key="..\:/Semister-6/minor/Authentication/app/src/main/res/layout/activity_main.xml" value="0.27708333333333335" />
+        <entry key="..\:/Semister-6/minor/Authentication/app/src/main/res/layout/activity_option_page2.xml" value="0.27708333333333335" />
+        <entry key="..\:/Semister-6/minor/Authentication/app/src/main/res/layout/activity_register.xml" value="0.27708333333333335" />
+        <entry key="..\:/Semister-6/minor/Authentication/app/src/main/res/layout/activity_shopping.xml" value="0.16" />
+        <entry key="..\:/Semister-6/minor/Authentication/app/src/main/res/layout/activity_splashscreen.xml" value="0.27708333333333335" />
+        <entry key="..\:/Semister-6/minor/Authentication/app/src/main/res/layout/activity_tipsand_tricks.xml" value="0.27708333333333335" />
+        <entry key="..\:/Semister-6/minor/Authentication/app/src/main/res/layout/activity_try_on.xml" value="0.27708333333333335" />
+        <entry key="..\:/Semister-6/minor/Authentication/app/src/main/res/layout/content_layout.xml" value="0.27708333333333335" />
+        <entry key="..\:/Semister-6/minor/Authentication/app/src/main/res/layout/header.xml" value="0.27708333333333335" />
+        <entry key="..\:/Semister-6/minor/Authentication/app/src/main/res/layout/item_list.xml" value="0.27708333333333335" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/drawable/add_icon.xml" value="0.208" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/drawable/btn_background.xml" value="0.208" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/drawable/btn_background1.xml" value="0.208" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/drawable/followus_icon.xml" value="0.208" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/drawable/grp_icon.xml" value="0.208" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/drawable/help_icon.xml" value="0.208" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.208" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.208" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.208" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/drawable/input_style.xml" value="0.208" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/drawable/invite_icon.xml" value="0.208" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/drawable/logout_icon.xml" value="0.208" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/drawable/person.xml" value="0.208" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/drawable/records_icon.xml" value="0.208" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/drawable/tandc_icon.xml" value="0.208" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/drawable/warranty_icon.xml" value="0.208" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_aboutus.xml" value="0.33" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_add_clothes.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_contactus.xml" value="0.25" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_drawerbase.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_fpwd.xml" value="0.27708333333333335" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_help.xml" value="0.27708333333333335" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_option_page2.xml" value="0.27708333333333335" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_register.xml" value="0.27708333333333335" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_shopping.xml" value="0.27708333333333335" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_splashscreen.xml" value="0.29375" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_tipsand_tricks.xml" value="0.27708333333333335" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_try_on.xml" value="0.27708333333333335" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/layout/content_layout.xml" value="0.2" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/layout/fragment_aboutusfragment.xml" value="0.27708333333333335" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/layout/fragment_contactusfragment.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/layout/fragment_homefragment.xml" value="0.27708333333333335" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/layout/header.xml" value="0.27708333333333335" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/layout/home.xml" value="0.27708333333333335" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/layout/wrapper.xml" value="0.18" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/Authentication/app/src/main/res/menu/main_menu.xml" value="0.27708333333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
